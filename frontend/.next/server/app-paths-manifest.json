@@ -1,0 +1,8 @@
+{
+  "/import/page": "app/import/page.js",
+  "/analytics/page": "app/analytics/page.js",
+  "/ai/page": "app/ai/page.js",
+  "/risk/page": "app/risk/page.js",
+  "/journal/page": "app/journal/page.js",
+  "/calendar/page": "app/calendar/page.js"
+}
